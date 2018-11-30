@@ -1,0 +1,263 @@
+<svg data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1299.13 1332.28" id="tooltip-svg-6"><defs><style>
+		@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+		.tooltip {
+			dominant-baseline: hanging;
+		}
+
+		.tooltip-trigger2,.cls-10{
+			fill:#a30743;
+		}
+		.tooltip-trigger2,.cls-13,.cls-14,.tooltip-trigger,.tooltip-trigger3{
+				stroke:#fff;
+		}
+		.tooltip-trigger2,.cls-11,.cls-13,.cls-14,.tooltip-trigger,.tooltip-trigger3{
+				stroke-miterlimit:10;stroke-width:2px;
+		}
+		.tooltip-trigger,.cls-7{
+				fill:#97d1d3;
+		}
+		.tooltip-trigger3,.cls-9{
+				fill:#e58f8f;
+		}
+		.cls-4{
+				font-size:47px;
+		}
+		.cls-4,.cls-5,.cls-8{
+				fill:#323232;
+		}
+		.cls-4,.cls-7{
+				font-family:OpenSans-Semibold, Open Sans;
+				font-weight:700;
+		}
+		.cls-5{
+				font-size:32px;
+		}
+		.cls-5,.cls-6{
+				font-family:OpenSans-Semibold, Open Sans;
+		}
+		.cls-6{
+				font-size:29px;
+		}
+		.cls-12,.cls-6{
+				fill:#757575;
+		}
+		.cls-7{
+				font-size:33px;
+		}
+		.cls-11{
+				fill:none;stroke:#757575;
+		}
+		.cls-13{
+				fill:#ddd;
+		}
+		.cls-14{
+				fill:#6eabd6;
+		}
+		.tooltipinfo{
+				font-family:OpenSans-Semibold, Open Sans;
+				font-weight:35;
+		}
+		.tooltip-trigger2:hover{
+			opacity:0.6;
+		}
+		.tooltip-trigger3:hover{
+			opacity:0.6;
+		}		
+		.tooltip-trigger:hover{
+			opacity:0.6;
+		}
+	</style></defs>
+		<title>water</title>
+		<g id="Escasez">
+			<g id="SUDÁFRICA"><path class="tooltip-trigger2" data-tooltip-text="SUDÁFRICA: 821,42" d="M520,1061.65h56.28v56.16H520v-56.16Z"/></g>
+			<g id="ZIMBAUE"><path class="tooltip-trigger2" data-tooltip-text="ZIMBABUE: 795,5" d="M576.23,1031.31h0v30.34H546v-30.34Z"/></g>
+			<g id="RUANDA"><path class="tooltip-trigger2" data-tooltip-text="RUANDA: 837,3" d="M576.23,962H550.39V936h25.84v26Z"/></g>
+			<g id="SINGAPUR"><path class="tooltip-trigger2" data-tooltip-text="SINGAPUR: 109,6" d="M1231.17,893.87h17.74v17.89h-17.74Z"/></g>
+			<g id="MALTA"><path class="tooltip-trigger2" data-tooltip-text="MALTA: 116,2" d="M431.93,626.91v-5h4.82v5Z"/></g>
+			<g id="MALDIVAS"><path class="tooltip-trigger2" data-tooltip-text="MALDIVAS: 73,4" d="M796.51,1050.56v-5h4.82v5Z"/></g>
+			<g id="UZBEKSTÁN"><path class="tooltip-trigger2" data-tooltip-text="UZBEKISTÁN: 531,2" d="M796.29,600.41H753.81V557.84h42.48v42.57Z"/></g>
+			<g id="YEMEN"><path class="tooltip-trigger2" data-tooltip-text="YEMEN: 80" d="M694.25,710.69v39.4H654.62v-39.4Z"/></g>
+			<g id="TUNEZ"><path class="tooltip-trigger2" data-tooltip-text="TÚNEZ: 376,4" d="M400,680.57V655h25.4v25.59Z"/></g>
+			<g id="TURKMENISTAN"><path class="tooltip-trigger2" data-tooltip-text="TURKMENISTÁN: 257" d="M753.81,600.41H736.08V582.53h17.74Z"/></g>
+			<g id="SIRIA"><path class="tooltip-trigger2" data-tooltip-text="SIRIA: 371,9" d="M638.64,600.41v32.38H606.45V600.41Z"/></g>
+			<g id="ARABIA_SAUDITA" data-name="ARABIA SAUDITA"><path class="tooltip-trigger2" data-tooltip-text="ARABIA SAUDÍ: 77,9" d="M694.25,687.59v23.1h-42.7v-42.8h42.7v19.7Z"/></g>
+			<g id="SUDÁN"><path class="tooltip-trigger2" data-tooltip-text="SUDÁN: 101,6" d="M545.57,813.71h30.66v47.55h-47.3V813.71Z"/></g>
+			<g id="SOMALIA"><path class="tooltip-trigger2" data-tooltip-text="SOMALIA: 444" d="M628.78,905.87h28.47V934.4H628.78Z"/></g>
+			<g id="QATAR"><path class="tooltip-trigger2" data-tooltip-text="QATAR: 23,58" d="M706.3,687.59h-12v-12h12v12Z"/></g>
+			<g id="OMÁN"><path class="tooltip-trigger2" data-tooltip-text="OMÁN: 353,45" d="M694.25,710.69H710v15.85H694.25Z"/></g>
+			<g id="PAKISTÁN"><path class="tooltip-trigger2" data-tooltip-text="PAKISTÁN: 296,4" d="M796.29,644.79V600.41l52.33-1.12L901,600.41,901.18,705H796.29Z"/></g>
+			<g id="PAÍSES_BAJOS" data-name="PAÍSES BAJOS"><path class="tooltip-trigger2" data-tooltip-text="PAÍSES BAJOS: 652,2" d="M431.27,460.48H400.18v-31h31.09Z"/></g>
+			<g id="NÍGER"><path class="tooltip-trigger2" data-tooltip-text="NIGER: 182,7" d="M509,748.73H474.85V714.53H509Z"/></g>
+			<g id="MALAUI"><path class="tooltip-trigger2" data-tooltip-text="MALAUI: 945,5" d="M576.23,1046.48v-15.17h0v-17h32.19v32.15Z"/></g>
+			<g id="MAURITANIA"><path class="tooltip-trigger2" data-tooltip-text="MAURITANIA: 98,4" d="M307.34,680.57v15.62H291.79V680.57Z"/></g>
+			<g id="MARRUECOS"><path class="tooltip-trigger2" data-tooltip-text="MARRUECOS: 845" d="M352,635.74v44.83H307.34V635.74Z"/></g>
+			<g id="MOLDAVIA"><path class="tooltip-trigger2" data-tooltip-text="MOLDAVIA: 455,5" d="M583.46,512.11h14.23v14H583.46Z"/></g>
+			<g id="LÍBIA"><path class="tooltip-trigger2" data-tooltip-text="LIBIA: 112,8" d="M425.36,680.57v-19h19.05v19Z"/></g>
+			<g id="LÍBANO"><path class="tooltip-trigger2" data-tooltip-text="LÍBANO: 856,6" d="M624.84,651.13H606.45V632.79h18.39Z"/></g>
+			<g id="ISRAEL"><path class="tooltip-trigger2" data-tooltip-text="ISRAEL: 81,2" d="M606.45,673.1v-22h21.9v22Z"/></g>
+			<g id="JORDANIA"><path class="tooltip-trigger2" data-tooltip-text="JORDANIA: 77,4" d="M628.34,667.21h23.21v.68h0v22.42H628.34v-23.1Z"/></g>
+			<g id="KENIA"><path class="tooltip-trigger2" data-tooltip-text="KENIA: 449,7" d="M576.23,905.87h52.55V958.4H576.23V905.87Z"/></g>
+			<g id="KUWAIT"><path class="tooltip-trigger2" data-tooltip-text="KUWAIT: 0" d="M684.62,652.72v15.17H669.51V652.72Z"/></g>
+			<g id="HUNGRÍA"><path class="tooltip-trigger2" data-tooltip-text="HUNGRÍA: 608,2" d="M524.33,522.52V509.84h23.43v23.55H524.33V522.52Z"/></g>
+			<g id="WEST_BANK_AND_GAZA" data-name="WEST BANK AND GAZA"><path class="tooltip-trigger2" data-tooltip-text="PALESTINA: 189" d="M628.34,667.21V651.13h16v16.08Z"/></g>
+			<g id="DIYIBOUTI"><path class="tooltip-trigger2" data-tooltip-text="YIBUTI: 328,8" d="M592.21,813.71h7.45v7.47h-7.45Z"/></g>
+			<g id="ALGERIA"><path class="tooltip-trigger2" data-tooltip-text="ARGELIA: 287,6" d="M352,680.57v-48h48v48Z"/></g>
+			<g id="EGIPTO"><path class="tooltip-trigger2" data-tooltip-text="EGIPTO: 19,6" d="M606.45,651.13v73.59H532.66V651.13h73.79Z"/></g>
+			<g id="CHIPRE"><path class="tooltip-trigger2" data-tooltip-text="CHIPRE: 676,9" d="M592.43,645.93v-8.15h8.1v8.15Z"/></g>
+			<g id="BURKINA_FASO" data-name="BURKINA FASO"><path class="tooltip-trigger2" data-tooltip-text="BURKINA FASO: 710,7" d="M345.66,748.73V716.35h32.41v32.38Z"/></g>
+			<g id="BANGLADESH"><path class="tooltip-trigger2" data-tooltip-text="BANGLADESH: 658,6" d="M1110.73,705h96.13v96h-96.13V705Z"/></g>
+			<g id="BAHRAIN"><path class="tooltip-trigger2" data-tooltip-text="BAHRÉIN: 2,9" d="M715.28,687.59h-9v-8.83h9Z"/></g>
+			<g id="BARBADOS"><path class="tooltip-trigger2" data-tooltip-text="BARBADOS: 282,3" d="M203.5,791.56v-4.08h3.94v4.08Z"/></g>
+			<g id="CABO_VERDE" data-name="CABO VERDE"><path class="tooltip-trigger2" data-tooltip-text="CABO VERDE: 569,8" d="M269.24,701.63V696h5.69v5.66Z"/></g>
+			<g id="EMIRATES_ÁRABES_UNIDOS" data-name="EMIRATES ÁRABES UNIDOS"><path class="tooltip-trigger2" data-tooltip-text="EMIRATOS ÁRABES UNIDOS: 16,5" d="M694.25,710.69v-23.1h23v23.1h-23Z"/></g>
+			<g id="AZERBAYÁN"><path class="tooltip-trigger2" data-tooltip-text="AZERBAIYÁN: 851" d="M684.62,589.77V576.86H708v23.55H684.62Z"/></g></g>
+
+			<g id="bien">
+			<g id="ZAMBIA"><path class="tooltip-trigger" data-tooltip-text="ZAMBIA: 5.131" d="M576.23,1014.33v17H545.57v-30.57h30.66Z"/></g>
+			<g id="GUINEA"><path class="tooltip-trigger" data-tooltip-text="GUINEA: 19.143" d="M315,752.12H288.5V725.63H315Z"/></g>
+			<g id="GUINEA_BISAU" data-name="GUINEA BISAU"><path class="tooltip-trigger" data-tooltip-text="GUINEA-BISAU: 9.271" d="M288.5,736.5v10H278.43v-10Z"/></g>
+			<g id="GUINEA_ECUATORIAL" data-name="GUINEA ECUATORIAL"><path class="tooltip-trigger" data-tooltip-text="GUINEA ECUATORIAL: 23.020" d="M461.05,851.53v8.38h-8.32v-8.38Z"/></g>
+			<g id="GRECIA"><path class="tooltip-trigger" data-tooltip-text="GRECIA: 5324" d="M514.48,562.83h24.74v24.68H514.48V562.83Z"/></g>
+			<g id="SENEGAL"><path class="tooltip-trigger" data-tooltip-text="SENEGAL: 1.773" d="M291.79,696.19h15.55v29.44H277.78V696.19Z"/></g>
+			<g id="SIERRA_LEONA" data-name="SIERRA LEONA"><path class="tooltip-trigger" data-tooltip-text="SIERRA LEONA: 22.601" d="M309.09,752.12v20.61H288.5V752.12Z"/></g>
+			<g id="URUGUAY"><path class="tooltip-trigger" data-tooltip-text="URUGUAY: 26.962" d="M200.87,953.68h13.8v13.81h-13.8Z"/></g>
+			<g id="EUA"><path class="tooltip-trigger" data-tooltip-text="ESTADOS UNIDOS: 8.844" d="M97.74,487.46H233.06V622.64H97.74Z"/></g>
+			<g id="VENEZUELA"><path class="tooltip-trigger" data-tooltip-text="VENEZUELA: 26.188" d="M198.68,845H156.42V802.88h42.26V845Z"/></g>
+			<g id="VIETNAM"><path class="tooltip-trigger" data-tooltip-text="VIETNAM: 3.883" d="M1206.86,801V779.29h72.48v72.46h-72.48V801Z"/></g>
+			<g id="VANUATU"><path class="tooltip-trigger" data-tooltip-text="VANUATU: 38.632" d="M1245,1036.07h3.94v3.85H1245Z"/></g><g id="TIMOR-LESTE"><path class="tooltip-trigger" data-tooltip-text="TIMOR-LESTE: 6.773,5" d="M1241,1036.07v8.38h-8.54v-8.38Z"/></g><g id="TRINIDAD_Y_TOBAGO" data-name="TRINIDAD Y TOBAGO"><path class="tooltip-trigger" data-tooltip-text="TRINIDAD Y TOBAGO: 2.835" d="M198.68,802.88V794h8.76v8.83Z"/></g><g id="TURQUÍA"><path class="tooltip-trigger" data-tooltip-text="TURQUÍA: 2.946,87" d="M550.17,565.54h56.28v67.25H539.22V565.54h10.95Z"/></g><g id="TAILANDIA"><path class="tooltip-trigger" data-tooltip-text="TAILANDIA: 3.281,35" d="M1144.46,801h62.41v50.72h0v11.77h-62.41Z"/></g><g id="TAJIKISTÁN"><path class="tooltip-trigger" data-tooltip-text="TAJIKISTÁN: 7.588,41" d="M796.29,557.84h22.33v22.42H796.29V557.84Z"/></g><g id="SAO_TOME" data-name="SAO TOME"><path class="tooltip-trigger" data-tooltip-text="SAO TOME: 11.397" d="M444,863.07v-3.4h3.28v3.4Z"/></g><g id="SURINAM"><path class="tooltip-trigger" data-tooltip-text="SURINAM: 180.680" d="M210.94,845h-5.69v-5.43h5.69Z"/></g><g id="REPÚBLICA_CHECA" data-name="REPÚBLICA CHECA"><path class="tooltip-trigger" data-tooltip-text="ESLOVAQUIA: 2.325" d="M524.33,509.84h0V492.18h17.52v17.66Z"/></g><g id="ESLOVENIA"><path class="tooltip-trigger" data-tooltip-text="ESLOVENIA: 9.054,4" d="M513.39,522.52h10.95v10.87H513.39Z"/></g><g id="SUECIA"><path class="tooltip-trigger" data-tooltip-text="SUECIA: 17.635" d="M449,385.08V367.87h23.65v23.78H449Z"/></g><g id="SUAZILANDIA"><path class="tooltip-trigger" data-tooltip-text="SUAZILANDIA: 2.038,45" d="M585,1095.62h-8.76v-8.83H585Z"/></g><g id="SUDÁN_DEL_SUR" data-name="SUDÁN DEL SUR"><path class="tooltip-trigger" data-tooltip-text="SUDÁN DEL SUR: 2.254,79" d="M576.23,861.26h0v26.27H550V861.26Z"/></g><g id="ISLAS_SALOMON" data-name="ISLAS SALOMON"><path class="tooltip-trigger" data-tooltip-text="ISLAS SALOMON: 77.671" d="M1241,1032h-5.91v-5.66H1241Z"/></g><g id="EL_SALVADOR" data-name="EL SALVADOR"><path class="tooltip-trigger" data-tooltip-text="EL SALVADOR: 2.488,38" d="M78.91,738.35H97.74v19H78.91Z"/></g><g id="RUMANÍA"><path class="tooltip-trigger" data-tooltip-text="RUMANÍA: 2.128,68" d="M570.1,545.39H550.17V512.11h33.28v33.29Z"/></g><g id="RUSIA"><path class="tooltip-trigger" data-tooltip-text="RUSIA: 29.981" d="M597.91,455.72V365.15h90.43v90.57H597.91Z"/></g><g id="PUERTO_RICO" data-name="PUERTO RICO"><path class="tooltip-trigger" data-tooltip-text="PUERTO RICO: XXXX" d="M198.68,766.42h14v13.81h-14Z"/></g><g id="COREA"><path class="tooltip-trigger" data-tooltip-text="RPD COREA: 2.667,58" d="M1180.59,463.42V425.61h37.88v37.81Z"/></g><g id="PORTUGAL"><path class="tooltip-trigger" data-tooltip-text="PORTUGAL: 3.653,47" d="M352.88,553.32v24H328.58v-24Z"/></g><g id="PARAGUAY"><path class="tooltip-trigger" data-tooltip-text="PARAGUAY: 17.855" d="M181.38,973.16V953.68h19.49v19.47Z"/></g><g id="PANAMÁ"><path class="tooltip-trigger" data-tooltip-text="PANAMÁ: 34.989" d="M135.62,792.69H120.51V777.52h15.11Z"/></g><g id="PERÚ"><path class="tooltip-trigger" data-tooltip-text="PERÚ: 52.981" d="M156.42,875.56h0v42.34H113.94V875.56h42.48Z"/></g><g id="FILIPINAS"><path class="tooltip-trigger" data-tooltip-text="FILIPINAS: 4.785,1" d="M1206.64,1020V943.46h76.64V1020h-76.64Z"/></g><g id="PAPUA_NUEVA_GUINEA" data-name="PAPUA NUEVA GUINEA"><path class="tooltip-trigger" data-tooltip-text="PAPUA NUEVA GUINEA: 103.277" d="M1207.08,1047.16v-21.51h21.24v21.51Z"/></g><g id="NORUEGA"><path class="tooltip-trigger" data-tooltip-text="NORUEGA: 74.359" d="M449,367.87v17.21h-17.3V367.87Z"/></g><g id="NEPAL"><path class="tooltip-trigger" data-tooltip-text="NEPAL: 6.997,78" d="M1110.73,705v40.53h-40.51V705Z"/></g><g id="NUEVA_ZELANDA" data-name="NUEVA ZELANDA"><path class="tooltip-trigger" data-tooltip-text="NUEVA ZELANDA: 72.510" d="M1261.82,1109.88h16.42v16.3h-16.42Z"/></g><g id="NICARAGUA"><path class="tooltip-trigger" data-tooltip-text="NICARAGUA: 25.972" d="M120.51,775.93H101.9V757.37h18.61Z"/></g><g id="MALASIA"><path class="tooltip-trigger" data-tooltip-text="MALASIA: 19.187" d="M1248.9,851.75v42.12h-42V851.75h42Z"/></g><g id="NAMIBIA"><path class="tooltip-trigger" data-tooltip-text="NAMIBIA: 2.598,06" d="M520,1061.65v11.77H508.13v-11.77Z"/></g><g id="MOZAMBIQUE"><path class="tooltip-trigger" data-tooltip-text="MOZAMBIQUE: 3.685,82" d="M729.95,1124.83h8.54v8.38h-8.54v-8.38Zm-153.72-78.35h40.51v40.3H576.23v-40.3Z"/></g><g id="MADAGASCAR"><path class="tooltip-trigger" data-tooltip-text="MADAGASCAR: 14.285" d="M692.5,1087.24h37.44v37.59H692.5Z"/></g><g id="MÉXICO"><path class="tooltip-trigger" data-tooltip-text="MÉXICO: 3.292,5" d="M97.74,707.78h-85V622.64h85Z"/></g><g id="MACEDONIA"><path class="tooltip-trigger" data-tooltip-text="MACEDONIA: 2.599,28" d="M550.17,554.67v10.87H539.22V554.67Z"/></g><g id="MALÍ"><path class="tooltip-trigger" data-tooltip-text="MALI: 3.537,14" d="M377.63,716.35h-32V684.42h32Z"/></g><g id="MYANMAR"><path class="tooltip-trigger" data-tooltip-text="MYANMAR: 19.316" d="M1206.86,759.82V705h54.74v54.8h-54.74Z"/></g><g id="MONGOLIA"><path class="tooltip-trigger" data-tooltip-text="MONGOLIA: 11.901" d="M901,425.61H887.82V412.48H901Z"/></g><g id="SRI_LANKA" data-name="SRI LANKA"><path class="tooltip-trigger" data-tooltip-text="SRI LANKA: 2.542" d="M1035.63,1020.67V986h34.6v34.64Z"/></g><g id="LESOTHO"><path class="tooltip-trigger" data-tooltip-text="LESOTHO: 2.437" d="M576.23,1095.62H587.4v11.1H576.23Z"/></g><g id="LITUANIA"><path class="tooltip-trigger" data-tooltip-text="LITUANIA: 5.272" d="M569.44,429.46H556.52V416.78h12.92Z"/></g><g id="LUXEMBURGO"><path class="tooltip-trigger" data-tooltip-text="LUXEMBURGO: 1.797" d="M425.58,485.84h5.69v5.89h-5.69Z"/></g><g id="LETONIA"><path class="tooltip-trigger" data-tooltip-text="LETONIA: 8.496" d="M560.68,406.14h8.76v10.64H558.71V406.14Z"/></g><g id="LAOS"><path class="tooltip-trigger" data-tooltip-text="LAOS: 28.952" d="M1206.86,779.29V759.82h19.71v19.47Z"/></g><g id="LIBERIA"><path class="tooltip-trigger" data-tooltip-text="LIBERIA: 45.550" d="M309.09,772.73V788.8h-16.2V772.73Z"/></g><g id="ISLANDIA"><path class="tooltip-trigger" data-tooltip-text="ISLANDIA: 519.264" d="M292,370.13V365.6h4.38v4.53Z"/></g><g id="ITALIA"><path class="tooltip-trigger" data-tooltip-text="ITALIA: 3.002" d="M431.27,519.8H490v58.42H431.27V519.8Z"/></g><g id="JAMAICA"><path class="tooltip-trigger" data-tooltip-text="JAMAICA: 3.780" d="M136.49,729.06h12.92v12.68H136.49Z"/></g><g id="JAPÓN"><path class="tooltip-trigger" data-tooltip-text="JAPÓN: 3.378" d="M1202.48,621.47V536.79h84.74v84.69h-84.74Z"/></g><g id="KAZAJASTÁN"><path class="tooltip-trigger" data-tooltip-text="KAZAJASTÁN: 3.722" d="M796.29,557.84H764.54v-31.7h31.75v31.7Z"/></g><g id="REPÚBLICA_CHECA-2" data-name="REPÚBLICA CHECA"><path class="tooltip-trigger" data-tooltip-text="KIRGUISTÁN: 8.384" d="M796.29,557.84V539.28h18.61v18.57Z"/></g><g id="CAMBOYA"><path class="tooltip-trigger" data-tooltip-text="CAMBOYA: 7.897" d="M1248.9,851.75h30v29.89h-30Z"/></g><g id="GUYANA"><path class="tooltip-trigger" data-tooltip-text="GUYANA: 315.695" d="M205.25,845h-6.57v-6.57h6.57V845Z"/></g><g id="HONDURAS"><path class="tooltip-trigger" data-tooltip-text="HONDURAS: 10.291" d="M97.74,734.5h22.77v22.87H97.74V734.5Z"/></g><g id="CROACIA"><path class="tooltip-trigger" data-tooltip-text="CROACIA: 8.894" d="M524.33,548.79H508.79v-15.4h15.55Z"/></g><g id="INDONESIA"><path class="tooltip-trigger" data-tooltip-text="INDONESIA: 7.913" d="M1195.26,899.08h4.82v121.59H1078.55V899.08h116.71Z"/></g><g id="IRLANDA"><path class="tooltip-trigger" data-tooltip-text="IRLANDA: 10.520" d="M291.35,429V412.7H308V429Z"/></g><g id="FINLANCIA"><path class="tooltip-trigger" data-tooltip-text="FINLANDIA: 19.591" d="M472.66,367.87V350.21h17.74v17.66Z"/></g><g id="FIYI"><path class="tooltip-trigger" data-tooltip-text="FIYI: 32.230" d="M1248.9,1039.92h7.23v7.25h-7.23Z"/></g><g id="FRANCIA"><path class="tooltip-trigger" data-tooltip-text="FRANCIA: 3.015" d="M431.27,497.84v55.48H369.74V491.73h61.53v6.11Z"/></g><g id="GABÓN"><path class="tooltip-trigger" data-tooltip-text="GABÓN: 87.433" d="M461.05,859.9h0v10.42H450.54V859.9h10.51Z"/></g><g id="REINO_UNIDO" data-name="REINO UNIDO"><path class="tooltip-trigger" data-tooltip-text="REINO UNIDO: 2.244" d="M310.4,473.61V412.7h60.87v60.91H310.4Z"/></g><g id="GEORGIA"><path class="tooltip-trigger" data-tooltip-text="GEORGIA: 15.596" d="M699.07,576.86H684.62V562.37h14.45Z"/></g><g id="GUATEMALA"><path class="tooltip-trigger" data-tooltip-text="GUATEMALA: 6.857" d="M97.74,730v4.53h0v3.85H67.08V707.78H97.74Z"/></g><g id="REPÚBLICA_DOMINICANA" data-name="REPÚBLICA DOMINICANA"><path class="tooltip-trigger" data-tooltip-text="REPÚBLICA DOMINICANA: 2.258" d="M174.16,741.74h24.52v24.68H174.16Z"/></g><g id="ECUADOR"><path class="tooltip-trigger" data-tooltip-text="ECUADOR: 27.818" d="M156.42,845v30.57H126V845Z"/></g><g id="ESPAÑA"><path class="tooltip-trigger" data-tooltip-text="ESPAÑA: 2.392" d="M352.88,553.32h51.24v51.17H352.88V553.32Z"/></g><g id="ESTONIA"><path class="tooltip-trigger" data-tooltip-text="ESTONIA: 9.668" d="M569.44,406.14h-8.76v-8.6h8.76Z"/></g><g id="COSTA_RICA" data-name="COSTA RICA"><path class="tooltip-trigger" data-tooltip-text="COSTA RICA: 23.751" d="M120.51,792.69H103.87V775.93h16.64v16.76Z"/></g><g id="CUBA"><path class="tooltip-trigger" data-tooltip-text="CUBA: 3.332" d="M136.49,729.06h-25.4V703.48h25.4Z"/></g><g id="CANADÁ"><path class="tooltip-trigger" data-tooltip-text="CANADÁ: 80.201" d="M97.74,487.46V441.95h45.33v45.51Z"/></g><g id="SUIZA"><path class="tooltip-trigger" data-tooltip-text="SUIZA: 4.933" d="M431.27,519.8v-22h21.9v22Z"/></g><g id="CHILE"><path class="tooltip-trigger" data-tooltip-text="CHILE: 50.244" d="M213.13,1004.86H181.38v-31.7h31.75Z"/></g><g id="CHINA"><path class="tooltip-trigger" data-tooltip-text="CHINA: 2.061" d="M1180.59,705H1070l-84.41-1-84.41,1L901,576.19V425.61h66.57l38.32-.9,38.32.9h67.44l34.49-.73,34.49.73V705Z"/></g><g id="COSTA_MARFIL" data-name="COSTA MARFIL"><path class="tooltip-trigger" data-tooltip-text="COSTA DE MARFIL: 3.410" d="M309.09,788.8V752.12h36.57V788.8Z"/></g><g id="CAMERÚN"><path class="tooltip-trigger" data-tooltip-text="CAMERÚN: 12.275" d="M545.57,797.64v16.08H528.93v.23H509V777.48h36.57Z"/></g><g id="R.D.CONGO"><path class="tooltip-trigger" data-tooltip-text="R.D. CONGO: 12.207" d="M501.56,918.32H461.05v-48h0V859.9h0v-8.38h66.79v66.8H501.56Z"/></g><g id="CONGO"><path class="tooltip-trigger" data-tooltip-text="CONGO: 45.574" d="M461.05,870.32v17.21H444V870.32h17.08Z"/></g><g id="COLOMBIA"><path class="tooltip-trigger" data-tooltip-text="COLOMBIA: 44.882" d="M103.87,792.69h52.55V845H103.87Z"/></g><g id="BRUNEI"><path class="tooltip-trigger" data-tooltip-text="BRUNEI: 20.645" d="M1200.07,899.08h-4.82v-5h4.82Z"/></g><g id="BHUTAN"><path class="tooltip-trigger" data-tooltip-text="BHUTÁN: 100.457" d="M1070.22,745.56H1077v6.79h-6.79v-6.79Z"/></g><g id="BAHAMAS"><path class="tooltip-trigger" data-tooltip-text="BAHAMAS: 1.831" d="M132.33,698v-4.53h4.82V698Z"/></g><g id="BOSNIA_Y_HERZEGOVINA" data-name="BOSNIA Y HERZEGOVINA"><path class="tooltip-trigger" data-tooltip-text=" BOSNIA Y HERZEGOVINA: 9.955" d="M514.48,562.83H510.1v-14h14.23v14Z"/></g><g id="BIELORUSIA"><path class="tooltip-trigger" data-tooltip-text="BIELORUSIA: 3.588" d="M546.23,429.46h23.21v23.32H546.23Z"/></g><g id="BELICE"><path class="tooltip-trigger" data-tooltip-text="BELICE: 43.389" d="M97.74,734.5h0V730h4.6v4.53Z"/></g><g id="BOLÍVIA"><path class="tooltip-trigger" data-tooltip-text="BOLIVIA: 28.734" d="M156.42,953.68h25v24.68h-25Z"/></g><g id="BRASIL"><path class="tooltip-trigger" data-tooltip-text="BRASIL: 27.721" d="M181.38,953.68h-25V875.56h0V845H265V953.68H181.38Z"/></g><g id="ARGENTINA"><path class="tooltip-trigger" data-tooltip-text="ARGENTINA: 6.793" d="M181.38,1004.86h49.71v50H181.38Z"/></g><g id="ARMENIA"><path class="tooltip-trigger" data-tooltip-text="ARMENIA: 2.360" d="M684.62,576.86v12.91H671.7V576.86Z"/></g><g id="AUSTRALIA"><path class="tooltip-trigger" data-tooltip-text="AUSTRALIA: 20.931" d="M1261.82,1109.88H1225V1073h36.79Z"/></g><g id="AUSTRIA"><path class="tooltip-trigger" data-tooltip-text="AUSTRIA: 6.435" d="M524.33,500.33v9.51h0v12.68H502V500.33h22.33Z"/></g><g id="BULGARIA"><path class="tooltip-trigger" data-tooltip-text="BULGARIA: 2.907" d="M550.17,565.54V545.39H570.1v20.15Z"/></g><g id="ANGOLA"><path class="tooltip-trigger" data-tooltip-text="ANGOLA: 5.497" d="M461.05,918.32h40.51v40.3H461.05Z"/></g><g id="ALBANIA"><path class="tooltip-trigger" data-tooltip-text="ALBANIA: 9.310" d="M514.48,562.83v12.68h-12.7V562.83h12.7Z"/></g></g>
+		<g id="poca">
+		<g id="GAMBIA"><path class="tooltip-trigger3" data-tooltip-text="GAMBIA: 1.654,25" d="M288.5,725.63V736.5H277.78V725.63Z"/></g>
+		<g id="COREA-2" data-name="COREA"><path class="tooltip-trigger3" data-tooltip-text="COREA: 1.277,9"  d="M1180.59,517.31V463.42h54.09v53.89Z"/></g>
+		<g id="TANZANIA"><path class="tooltip-trigger3" data-tooltip-text="TANZANIA: 1.608,12"  d="M576.23,986.48V958.4h56.28v55.93H576.23V986.48Z"/></g>
+		<g id="UGANDA"><path class="tooltip-trigger3" data-tooltip-text="UGANDA: 1.004,29"  d="M527.84,918.32h0V887.53h48.39V936H527.84Z"/></g>
+		<g id="UCRANIA"><path class="tooltip-trigger3" data-tooltip-text="UCRANIA: 1.217,08"  d="M597.69,526.14h0V475.65h50.58v50.49H597.69Z"/></g>
+		<g id="CHAD"><path class="tooltip-trigger3" data-tooltip-text="CHAD: 1.105,42"  d="M537.69,777.48H509V748.73h28.68Z"/></g>
+		<g id="TOGO"><path class="tooltip-trigger3" data-tooltip-text="TOGO: 1.590,83"  d="M385.73,748.73h20.58v20.83H385.73Z"/></g>
+		<g id="SERBIA"><path class="tooltip-trigger3" data-tooltip-text="SERBIA: 1.179"   d="M524.33,548.79v-15.4h19.93v19.93H524.33Z"/></g>
+		<g id="POLONIA"><path class="tooltip-trigger3" data-tooltip-text="POLONIA: 1.410,09"  d="M546.23,429.46v46.42H499.81V429.46Z"/></g>
+		<g id="NIGERIA"><path class="tooltip-trigger3" data-tooltip-text="NIGERIA: 1.252,40"  d="M406.31,748.73H509v102.8H406.31V748.73Z"/></g>
+		<g id="SANTA_LUCÍA" data-name="SANTA LUCÍA"><path class="tooltip-trigger3" data-tooltip-text="SANTA LUCÍA: 1.700,47"  d="M198.9,790.43v-3.17h3.28v3.17Z"/></g>
+		<g id="HAITÍ"><path class="tooltip-trigger3" data-tooltip-text="HAITÍ: 1.230,55"  d="M174.16,741.74v24.91H149.41V741.74Z"/></g>
+		<g id="INDIA"><path class="tooltip-trigger3" data-tooltip-text="INDIA: 1.117,58"  d="M1070.22,745.56V979h-60.44l-36.24.72L937.31,979h-141V705H901.18l84.41-1,84.41,1h.22Z"/></g>
+		<g id="IRÁN"><path class="tooltip-trigger3" data-tooltip-text="IRÁN: 1.638,79"  d="M752.06,600.41v67.48H684.62V600.41h67.44Z"/></g>
+		<g id="IRAK"><path class="tooltip-trigger3" data-tooltip-text="IRAK: 1.005,53"  d="M684.62,600.41v46h-46v-46Z"/></g>
+		<g id="ETIOPÍA"><path class="tooltip-trigger3" data-tooltip-text="ETIOPÍA: 1.252,99"  d="M576.23,829.79h76.2v76.08h-76.2V887.53h0V861.26h0Z"/></g>
+		<g id="GHANA"><path class="tooltip-trigger3" data-tooltip-text="GHANA: 1.123,78"  d="M345.66,748.73h40.07V788.8H345.66V748.73Z"/></g>
+		<g id="REPÚBLICA_CHECA-3" data-name="REPÚBLICA CHECA"><path class="tooltip-trigger3" data-tooltip-text=" REPÚBLICA CHECA: 1.249,36"  d="M524.33,500.33H499.81V475.88h24.52v24.45Z"/></g>
+		<g id="ALEMANIA"><path class="tooltip-trigger3" data-tooltip-text="ALEMANIA: 1.321,27"  d="M431.27,485.84V429.46h68.54v68.38H431.27v-12Z"/></g>
+		<g id="DINAMARCA"><path class="tooltip-trigger3" data-tooltip-text="DINAMARCA: 1.063,17"  d="M449.45,429.46H431.27V411.57h18.17Z"/></g>
+		<g id="BURUNDI"><path class="tooltip-trigger3" data-tooltip-text="BURUNDI: 1.017"  d="M576.23,962v24.45H551.92V962Z"/></g>
+		<g id="BÉLGICA"><path class="tooltip-trigger3" data-tooltip-text="BÉLGICA: 1.070,56"  d="M431.27,460.48v25.36h-25.4V460.48Z"/></g>
+		<g id="BENÍN"><path class="tooltip-trigger3" data-tooltip-text="BENÍN: 1.001,29"  d="M385.73,748.73V724h24.74v24.68H385.73Z"/></g>
+		<g id="BOTSWANA"><path class="tooltip-trigger3" data-tooltip-text="BOTSWANA: 1.106,71"  d="M520,1061.65v-11.32h11.39v11.32H520Z"/></g>
+		<g id="COMOROS"><path class="tooltip-trigger3" data-tooltip-text="BOTSWANA: 1.580,22" d="M692.5,1087.24h-6.79v-6.79h6.79Z"/></g>
+		<g id="AFGANISTÁN"><path class="tooltip-trigger3" data-tooltip-text="AFGANISTÁN: 1.439,34"  d="M752.06,600.41h44.23v44.38H752.06Z"/></g>
+
+		<text class="cls-4" transform="translate(147.79 68.89)">¿Cuánta agua le queda a cada país del mundo?</text><text class="cls-5" transform="translate(311.51 133.99)">Recursos renovables de agua dulce por persona (m3/p)</text><text class="cls-5" transform="translate(847.83 229.98)">El tamaño de cada país <tspan x="0" y="38.4">corresponde a su población</tspan></text><text class="cls-6" transform="translate(23.61 1295.66)">Fuente: Banco Mundial</text><text class="cls-6" transform="translate(1054.87 1296.97)">LA VANGUARDIA</text><text class="cls-7" transform="translate(24.51 231.16)"><tspan xml:space="preserve">SUFICIENTE  </tspan><tspan class="cls-8" x="199.76" y="0">|</tspan><tspan x="217.93" y="0"> </tspan><tspan class="cls-9" x="226.5" y="0">POCA </tspan><tspan class="cls-8" x="324.09" y="0">|</tspan><tspan x="342.26" y="0"> </tspan><tspan class="cls-10" x="350.83" y="0">ESCASEZ</tspan></text><path class="cls-11" d="M810.33,225.16s-129.12,66.69-38.21,168.32"/><polygon class="cls-12" points="762.92 394.42 770.47 391.65 773.72 384.29 780.33 402.15 762.92 394.42"/></g><g id="sin_datos" data-name="sin datos"><path class="cls-13" d="M1200.95,684.65V648.19h36.57v36.46Z"/><path class="cls-13" d="M22.19,877.6v-3.4h3.28v3.4Z"/><path class="cls-13" d="M1206.86,705h-5.91v-5.89h5.91Z"/><path class="cls-13" d="M524.33,562.83v-5.89h5.91v5.89Z"/><path class="cls-13" d="M592.21,813.71v16.08h-16V813.71Z"/><path class="cls-13" d="M545.57,813.71V797.64h16v16.08Z"/><path class="cls-13" d="M1200.95,705h-20.36V684.65h20.36V705Z"/><path class="cls-13" d="M26.13,878.05v-3.85h3.94v3.85Z"/><path class="cls-14" d="M729.95,1124.83v-.23h8.32v.23Zm-.22,0h.22V1133h-.22Z"/><path class="cls-13" d="M1241,1036.07V1032H1245v4.08Z"/></g>
+
+<g id="tooltip" visibility="hidden" >
+    <rect x="4" y="4" width="250" height="70" fill="#323232" opacity="0.1" rx="2" ry="2"/>
+    <rect width="250" height="70" fill="white" opacity=" 0.9" rx="4" ry="4"/>
+    <text class="tooltipinfo" x="3" y="50" fill="#757575" font-size="30" >Tooltip</text>
+</g>
+
+	<script type="text/ecmascript">
+		(function() {
+			var svg = document.getElementById('tooltip-svg-6');
+			var tooltip = svg.getElementById('tooltip');
+			var tooltipText = tooltip.getElementsByTagName('text')[0];
+			var tooltipRects = tooltip.getElementsByTagName('rect');
+			var triggers = svg.getElementsByClassName('tooltip-trigger');
+
+			for (var i = 0; i &lt; triggers.length; i++) {
+				triggers[i].addEventListener('mousemove', showTooltip);
+				triggers[i].addEventListener('mouseout', hideTooltip);
+			}
+
+			function showTooltip(evt) {
+				var CTM = svg.getScreenCTM();
+				var x = (evt.clientX - CTM.e + 6) / CTM.a;
+				var y = (evt.clientY - CTM.f + 20) / CTM.d;
+				tooltip.setAttributeNS(null, "transform", "translate(" + x + " " + y + ")");
+				tooltip.setAttributeNS(null, "visibility", "visible");
+
+				tooltipText.firstChild.data = evt.target.getAttributeNS(null, "data-tooltip-text");
+				var length = tooltipText.getComputedTextLength();
+				for (var i = 0; i &lt; tooltipRects.length; i++) {
+					tooltipRects[i].setAttributeNS(null, "width", length + 8);
+				}
+			}
+
+			function hideTooltip(evt) {
+				tooltip.setAttributeNS(null, "visibility", "hidden");
+			}
+		})()
+    </script>
+    	<script type="text/ecmascript">
+		(function() {
+			var svg = document.getElementById('tooltip-svg-6');
+			var tooltip = svg.getElementById('tooltip');
+			var tooltipText = tooltip.getElementsByTagName('text')[0];
+			var tooltipRects = tooltip.getElementsByTagName('rect');
+			var triggers = svg.getElementsByClassName('tooltip-trigger2');
+
+			for (var i = 0; i &lt; triggers.length; i++) {
+				triggers[i].addEventListener('mousemove', showTooltip);
+				triggers[i].addEventListener('mouseout', hideTooltip);
+			}
+
+			function showTooltip(evt) {
+				var CTM = svg.getScreenCTM();
+				var x = (evt.clientX - CTM.e + 6) / CTM.a;
+				var y = (evt.clientY - CTM.f + 20) / CTM.d;
+				tooltip.setAttributeNS(null, "transform", "translate(" + x + " " + y + ")");
+				tooltip.setAttributeNS(null, "visibility", "visible");
+
+				tooltipText.firstChild.data = evt.target.getAttributeNS(null, "data-tooltip-text");
+				var length = tooltipText.getComputedTextLength();
+				for (var i = 0; i &lt; tooltipRects.length; i++) {
+					tooltipRects[i].setAttributeNS(null, "width", length + 8);
+				}
+			}
+
+			function hideTooltip(evt) {
+				tooltip.setAttributeNS(null, "visibility", "hidden");
+			}
+		})()
+    </script>
+
+        	<script type="text/ecmascript">
+		(function() {
+			var svg = document.getElementById('tooltip-svg-6');
+			var tooltip = svg.getElementById('tooltip');
+			var tooltipText = tooltip.getElementsByTagName('text')[0];
+			var tooltipRects = tooltip.getElementsByTagName('rect');
+			var triggers = svg.getElementsByClassName('tooltip-trigger3');
+
+			for (var i = 0; i &lt; triggers.length; i++) {
+				triggers[i].addEventListener('mousemove', showTooltip);
+				triggers[i].addEventListener('mouseout', hideTooltip);
+			}
+
+			function showTooltip(evt) {
+				var CTM = svg.getScreenCTM();
+				var x = (evt.clientX - CTM.e + 6) / CTM.a;
+				var y = (evt.clientY - CTM.f + 20) / CTM.d;
+				tooltip.setAttributeNS(null, "transform", "translate(" + x + " " + y + ")");
+				tooltip.setAttributeNS(null, "visibility", "visible");
+
+				tooltipText.firstChild.data = evt.target.getAttributeNS(null, "data-tooltip-text");
+				var length = tooltipText.getComputedTextLength();
+				for (var i = 0; i &lt; tooltipRects.length; i++) {
+					tooltipRects[i].setAttributeNS(null, "width", length + 8);
+				}
+			}
+
+			function hideTooltip(evt) {
+				tooltip.setAttributeNS(null, "visibility", "hidden");
+			}
+		})()
+    </script>
+
+</svg>
